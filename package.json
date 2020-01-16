@@ -1,0 +1,19 @@
+{
+  "name": "testboard",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dynd0863/testboard.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dynd0863/testboard/issues"
+  },
+  "homepage": "https://github.com/dynd0863/testboard#readme"
+}
